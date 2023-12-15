@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336957278123",
+    "project_id": "ratingfilm-18c06",
+    "storage_bucket": "ratingfilm-18c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336957278123:android:378b85e4e8bf3c3200b4ee",
+        "android_client_info": {
+          "package_name": "com.example.rating_film"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjjVm8-sCZv-ZTVzslO8aPl2iXLgxPUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
